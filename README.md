@@ -1,10 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Gabriel Portfolio
 
-## Getting Started
+Portfólio pessoal (v2) feito do jeito certo: código versionado, pipeline no GitHub e documentação.
 
-First, run the development server:
+## Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
 
+## Como rodar localmente
 ```bash
+npm install
 npm run dev
 # or
 yarn dev
