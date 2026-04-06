@@ -21,7 +21,7 @@ export default function Home() {
           {/* Buttons */}
           <div className="flex flex-wrap gap-3 pt-2">
             <a
-              href="https://github.com/"
+              href="https://github.com/gabrielvynicius"
               target="_blank"
               rel="noreferrer"
               className="rounded-2xl bg-zinc-50 px-5 py-2.5 text-sm font-medium text-zinc-950 shadow hover:bg-zinc-200 transition"
