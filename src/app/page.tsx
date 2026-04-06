@@ -30,7 +30,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/gabriel-vynicius/"
               target="_blank"
               rel="noreferrer"
               className="rounded-2xl border border-zinc-700 px-5 py-2.5 text-sm font-medium text-zinc-50 hover:bg-zinc-900 transition"
